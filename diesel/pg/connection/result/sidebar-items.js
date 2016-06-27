@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_result_field","`field` is one of the valid options to `PQresultErrorField` Their values are defined as C preprocessor macros, and therefore are not exported by libpq-sys. Their values can be found in `postgres_ext.h`"]],"struct":[["PgErrorInformation",""],["PgResult",""]]});
